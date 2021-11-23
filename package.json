@@ -1,0 +1,33 @@
+{
+  "name": "arsenal",
+  "version": "0.0.1",
+  "description": "前端js工具库",
+  "main": "./utils/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:utils": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigBigBigMok/arsenal.git"
+  },
+  "keywords": [
+    "工具类库"
+  ],
+  "author": "BigBigBigMok、Fanny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BigBigBigMok/arsenal/issues"
+  },
+  "homepage": "https://github.com/BigBigBigMok/arsenal#readme",
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "jest": "^27.3.1",
+	"@babel/core": "^7.16.0",
+	"@babel/preset-env": "^7.16.4",
+	"babel-jest": "^27.3.1"
+  },
+  "dependencies": {
+    
+  }
+}
